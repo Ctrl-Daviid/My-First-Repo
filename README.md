@@ -2,7 +2,7 @@
 
 This is my first project through CPA.
 
-Name: Diana Cesar Major. Computer Science
+Name: David Unaegbu Major: Cybersecurity
 
 What I'm Learning:
 - Github
