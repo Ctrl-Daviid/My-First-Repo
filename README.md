@@ -2,7 +2,8 @@
 
 This is my first project through CPA.
 
-Name: David Unaegbu Major: Cybersecurity
+Name: David Unaegbu 
+Major: Cybersecurity
 
 What I'm Learning:
 - Github
